@@ -1,0 +1,52 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "82ebf490fd19a5f8",
+            "max_int": "ef732f443be89fd3",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "nics orense",
+            "photo": "https://i.postimg.cc/dVjvn8bb/985f1681ef143199f36b52137eeb3c59-c5-720x720.jpg",
+            "voice": "https://ringy9.github.io/Nics-Orense/suara.mp3",
+            "video": "https://ringy9.github.io/Nics-Orense/vidd.mp4",
+            "stories": [
+               "https://i.postimg.cc/G2HCc64R/595798ce6562abe085f25171cb84ab34.jpg",
+"https://i.postimg.cc/dVjvn8bb/985f1681ef143199f36b52137eeb3c59-c5-720x720.jpg",
+"https://i.postimg.cc/MGswJzKt/a3a155c1a2fbfb55385e2c642e7aed8f.jpg",
+"https://i.postimg.cc/8CC8HxBv/b2c8c5cafbd9bc57ea9059526091ebdc.jpg",
+"https://i.postimg.cc/fydQdX7g/b305d89fed68ad09c7bf4a07989930e8.jpg",
+"https://i.postimg.cc/KYcbW1FR/ca86867f64b5f28eef58f8805eb82dd6.jpg",
+"https://i.postimg.cc/Y9Zwj8FW/ede0e3d9b4817b6f503ea15475ee80b7.jpg",
+"https://i.postimg.cc/L8DKjmfR/f8ffe68d612aeadb8d1175e2baedaf7f.jpg",
+"https://i.postimg.cc/cL0GKvvX/nics-orense-20030609-1638499195865-allfamous-org.jpg",
+"https://i.postimg.cc/RVrBBs4r/r1-TGir9q-Nics-Orense-2-640x640.webp",
+"https://i.postimg.cc/vHWdHrZ4/unnamed.jpg",
+"https://i.postimg.cc/sfGrbdF9/unnamed-1.jpg"
+            ],
+            "wallpapers": [
+               "https://i.postimg.cc/G2HCc64R/595798ce6562abe085f25171cb84ab34.jpg",
+"https://i.postimg.cc/dVjvn8bb/985f1681ef143199f36b52137eeb3c59-c5-720x720.jpg",
+"https://i.postimg.cc/MGswJzKt/a3a155c1a2fbfb55385e2c642e7aed8f.jpg",
+"https://i.postimg.cc/8CC8HxBv/b2c8c5cafbd9bc57ea9059526091ebdc.jpg",
+"https://i.postimg.cc/fydQdX7g/b305d89fed68ad09c7bf4a07989930e8.jpg",
+"https://i.postimg.cc/KYcbW1FR/ca86867f64b5f28eef58f8805eb82dd6.jpg",
+"https://i.postimg.cc/Y9Zwj8FW/ede0e3d9b4817b6f503ea15475ee80b7.jpg",
+"https://i.postimg.cc/L8DKjmfR/f8ffe68d612aeadb8d1175e2baedaf7f.jpg",
+"https://i.postimg.cc/cL0GKvvX/nics-orense-20030609-1638499195865-allfamous-org.jpg",
+"https://i.postimg.cc/RVrBBs4r/r1-TGir9q-Nics-Orense-2-640x640.webp",
+"https://i.postimg.cc/vHWdHrZ4/unnamed.jpg",
+"https://i.postimg.cc/sfGrbdF9/unnamed-1.jpg"
+            ]
+          
+        }
+    ]
+}
